@@ -2,7 +2,7 @@ name: CMake
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 env:
   # Указываем тип построения CMake(Release, Debug, RelWithDebInfo, и т.п.)
